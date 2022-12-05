@@ -1,0 +1,10 @@
+.bone,.btwo{
+    font-size: 28px; font-family: 'Helvetia and Times New Roman, sans-serif';
+}
+
+.bone { background-color: black; color: white;
+}
+
+.btwo {
+    background-color: yellow;
+}
