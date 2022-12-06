@@ -1,0 +1,19 @@
+.container > p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*
+This can also be used:
+
+.container .text 
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+reasoning: the class '.container is followed by .text'
+
+    */
