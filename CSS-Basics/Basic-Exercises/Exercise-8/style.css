@@ -1,0 +1,62 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+     }
+  
+     
+  .card {
+    width: 400px;
+    background: #fff;
+    padding:8px;
+    margin-left: 260px;
+    border-top: 20px;
+                            /*             
+                                width: 400px;
+                                background: #fff;
+                                margin: 16px auto;  */
+  }
+  
+  .title {
+    background: #e3f4ff;
+    font-size: 16px;
+    font-weight: bolder;
+    padding:8px; 
+    margin-top: none; /*next time type in 0*/   
+}
+                            /*.title {
+                                margin-top: 0;
+                                margin-bottom: 8px; Notice how by not adding 
+                                the margin bottom to 8px the text floats down.
+                                font-size: 16px;
+                                padding: 8px;
+                                    } */
+
+  .content {
+    background: #e3f4ff;
+    font-size: 14px;
+    font-weight:bold;
+    padding:16px 8px;
+    border-bottom:8px solid white;              
+}                                              
+                                                        /*.content {
+                                                        margin-bottom: 8px;
+                                                        padding: 16px 8px;
+                                                        } */
+
+  
+  .button-container {
+    background: #e3f4ff;
+    font-weight: bold;
+    padding: 8px;
+    text-align: center;}
+ 
+  
+  button {
+    background: white;
+    border: 1px solid #eee;
+    padding:8px 24px;
+  }                                             /*button {
+                                                            display: block;
+                                                            margin: 0 auto;
+                                                            padding: 8px 24px;
+                                                        }
