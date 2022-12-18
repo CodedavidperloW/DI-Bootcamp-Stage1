@@ -1,7 +1,7 @@
 * { box-sizing: border-box }
 
 body {margin:50px;
-background-color: rgb(56, 56, 116);
+background-color: rgb(51, 51, 119);
 margin-top: 0px;
 width:800px;}
 
@@ -15,7 +15,7 @@ color: black;}
 #nav{font-size: x-large;
 font-weight: bold;
 color:black;
-background-color: lightblue;
+background-color: rgb(187, 219, 239);
 left:0px;
 width:190px;
 padding-left: 5px;
@@ -25,11 +25,11 @@ height: 640px;
 }
 
 
-#content{background-color: rgb(84, 84, 182);
+#content{background-color: rgb(91, 115, 195);
 margin-left: 190px;
 text-align: center;
 height: 640px;
-width:720px;
+width:740px;
 }
 
 #content h1{font-size: 40px;
