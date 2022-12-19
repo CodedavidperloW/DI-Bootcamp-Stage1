@@ -1,0 +1,33 @@
+body{   margin:20px;
+        width:960px;
+        height:830px;
+        border:5px solid black;}
+
+.header{border-bottom: 5px solid black;
+        font-size: 26px;
+        font-weight: bold;}
+
+.greenbox{margin:25px 15px;
+        margin-top: 60px;
+         width:915px;
+         height:200px;
+        border: 5px solid black;
+        background-color: green;}
+
+img {margin:5px 15px;
+    width:290px;
+    height:220px;
+    float:left;
+    }
+
+    
+
+.square {height: 220px;
+        width: 280px;
+        border: 5px solid black;
+        float:left;
+        margin: 25px 15px;
+        }
+.A {background-color: rgb(234, 136, 24);}
+.B {background-color: rgb(235, 63, 20);}
+.C {background-color: cornflowerblue;}
