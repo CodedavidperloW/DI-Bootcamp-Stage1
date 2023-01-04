@@ -27,3 +27,18 @@ body{
     background-color:peachpuff;
     font-size: x-large;
     margin:5px;}
+
+@media (min-width:765px) and (max-width:960px){
+.col4{
+        width: 50%;}
+
+.col6{
+        width:100%;    /*but what about when the min-width is less than 765px)*/
+}
+}
+
+@media (max-width:765px){
+    .col4 {
+        width: 100%;
+    }
+}

@@ -1,0 +1,89 @@
+*{box-sizing: border-box;}
+
+
+body        {   margin: 10px 10px;
+        border: 5px solid black;
+        height: 600px;
+        width:655px;
+        margin-left: 10px;
+            }
+
+#wrap           {width: 650px;
+        
+                        }
+
+
+h1  {   font-size: 26px;
+                margin-top: 0px;
+                text-align: left;
+                border-bottom: 5px solid black;
+}
+
+    /*        
+[div$="box"]{
+        border: 2px solid black;
+}
+ABOVE DID NOT WORK - I TRIED TO GIVE EVERYTHING A BORDER
+*/ 
+
+
+
+.redbox1 {background-color: pink;
+        margin:15px 15px;
+        height:100px;
+        width:176px;
+        float: left;
+        border: 5px solid black;
+        }    
+
+.bluebox1 {background-color: cornflowerblue;
+        margin:15px 15px;
+        height:100px;
+        width:400px;
+        float: right;
+        border: 5px solid black;
+} 
+.redbox2 {background-color: pink;
+        margin:15px 15px;
+        height:100px;
+        width:176px;
+        float: left;
+        border: 5px solid black;
+        }    
+
+.bluebox2 {background-color: cornflowerblue;
+        margin:15px 15px;
+        height:100px;
+        width:400px;
+        float: right;
+        border: 5px solid black;
+} 
+.redbox3 {background-color: pink;
+        margin:15px 15px;
+        height:100px;
+        width:176px;
+        float: left;
+        border: 5px solid black;
+        }    
+
+.bluebox3 {background-color: cornflowerblue;
+        margin:15px 15px;
+        height:100px;
+        width:400px;
+        float: right;
+        border: 5px solid black;
+} 
+
+.yellowbox1 {background-color: rgb(252, 252, 146);
+        margin:15px 15px;
+        height:100px;
+        width:620px;
+        float: right;
+        border: 5px solid black;
+        
+} 
+
+
+
+
+        
